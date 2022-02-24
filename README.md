@@ -1,5 +1,6 @@
 # TicTacChase
 A game made as part of the F21GP courses at Heriot-Watt University
+The whole project can be send, if needed!
 
 Your objective is to touch the green capsule, while avoiding be touch by the red capsule
 
